@@ -1,1 +1,2 @@
 # coursera-webD
+theme: minima
